@@ -1,0 +1,20 @@
+{
+  "model_path": "",
+  "device": "auto",
+  "max_new_tokens": 512,
+  "temperature": 0.2,
+  "top_p": 0.9,
+  "sampling": false,
+  "chat_max_new_tokens": 512,
+  "chat_temperature": 0.6,
+  "chat_top_p": 0.9,
+  "chat_sampling": true,
+  "system_prompt": "You are an image captioning assistant. Only describe visible information. Never infer identities or hidden information.",
+  "custom_prompt": "",
+  "caption_out_dir": "outputs/qwen3-vl-captions",
+  "batch_input_dir": "",
+  "batch_output_dir": "",
+  "batch_mode": "Tags",
+  "batch_overwrite": false,
+  "batch_max_new_tokens": 256
+}
