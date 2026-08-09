@@ -7,12 +7,12 @@ WD14-style tag generation, chat, and batch captioning.
 
 > [!Important]
 > This extension is totally LLM coded and will only work on **Forge Neo** and **Nvidia** GPUs. Use at your own risk!
-> TL;DR: Werks on mah machine.
+> **TL;DR:** Werks on mah machine.
 
 ## Installation
 
 1. Download the model:
-    - `https://huggingface.co/Comfy-Org/Krea-2/tree/main/text_encoders`
+    - [Qwen3 VL 4B](https://huggingface.co/Comfy-Org/Krea-2/tree/main/text_encoders)
     - Save it into Forge's `models/text_encoder` folder
 2. Go into Extensions tab > Install from URL
 3. Paste https://github.com/otacoo/sd-webui-qwen3-vl.git
