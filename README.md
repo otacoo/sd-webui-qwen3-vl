@@ -49,6 +49,3 @@ dirs, ...).
 - **Out of memory** — unload Forge's checkpoint first
   (`Unload Forge Checkpoint` button), or use `cpu` (slow).
 - Qwen3-VL-4B uses ~10 GB VRAM in bfloat16.
-
-## License
-MIT
